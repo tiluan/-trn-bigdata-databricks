@@ -5,11 +5,11 @@ Domine o Databricks e remova totalmente a dificuldade de instalar, configurar e 
 a engine de processamento de dados mais utilizada no mercado de dados que está presente nas maiores empresas do globo 
 como Uber, Waze, Spotify, Netflix, New York Times, Nasa.
 
-### Roadmap e Programação
-Cronograna e Agenda do Treinamento 
+## Roadmap e Programação
+Cronograna do Treinamento 
 Big Data com Databricks: Plataforma Unificada de Dados
 
-##### Fase 1 | Databricks como Plataforma de Dados
+#### Fase 1 | Databricks como Plataforma de Dados
 Entenda os componentes e serviços utilizados pela Databricks para atender todas as diferentes personas na área de dados. Iremos navegar em todos os seus recursos proprietários para entender como a ferramenta mais utilizada no mercado de dados pode simplificar e facilitar o desenvolvimento de pipeline de dados.
 
 - Fundamentos de Apache Spark & Conceitos na Área de Dados
@@ -20,7 +20,8 @@ Entenda os componentes e serviços utilizados pela Databricks para atender todas
 
 **Caso de Uso:** Iremos construir uma arquitetura para desenvolvimento de uma plataforma de Enterprise Data Lakehouse [EDL] com o Databricks. Essa arquitetura servirá para que possamos desenvolver pipeline de dados em batch e streaming de forma escalável e transparente.
 
-##### Fase 2 | Construindo Pipeline de Dados em Batch e Stream com Recursos do Databricks
+
+#### Fase 2 | Construindo Pipeline de Dados em Batch e Stream com Recursos do Databricks
 Aprenda em detalhes como utilizar os recursos proprietários da Databricks de forma eficiente utilizando as melhores práticas do mercado. Desenvolva pipelines de dados completos com ingestão, processamento, entrega, governança e escalabilidade em um ambiente unificado para se trabalhar em equipe.
 
 - Databricks Lakehouse Platform 
@@ -31,7 +32,8 @@ Aprenda em detalhes como utilizar os recursos proprietários da Databricks de fo
 
 **Caso de Uso:** Desenvolvimento de pipeline de dados em batch e stream utilizando Delta Live Tables, Auto Loader, Unity Catalog, Workflows como uma entrega de solução completa de dados dentro do Databricks.
 
-##### Fase 03 | Data Warehouse & Lakehouse no Databricks (DB SQL)
+
+### Fase 03 | Data Warehouse & Lakehouse no Databricks (DB SQL)
 Entregue uma solução de Data Warehouse com a plataforma do Databricks utilizando a engine de Lakehouse mais disruptiva do mercado de dados. Aprenda os principais conceitos que times de dados precisam saber para utilizar o Lakehouse de forma otimizada.
 
 - Data Lake, Warehouse & Lakehouse
@@ -41,7 +43,8 @@ Entregue uma solução de Data Warehouse com a plataforma do Databricks utilizan
 
 **Caso de Uso:** Como entregar uma solução de Data Warehousing, Analytics, e BI utilizando a plataforma de Dados do Databricks de forma efetiva, econômica e escalável.Entenda como times de dados podem se beneficiar da plataforma de dados do Databricks consumindo dados de forma eficiente e escalável.
 
-#### Fase 4 | Otimizações e Recomendações para Pipeline de Dados no Databricks
+
+### Fase 4 | Otimizações e Recomendações para Pipeline de Dados no Databricks
 Aprenda como realizar o fine-tuning dos seus pipelines de dados para aumentar o aproveitamento e otimizar custos. Iremos navegar nos problemas reais relacionados à ingestão, processamento, entrega do dado e economia de custos para operacionalizar seus pipelines com as melhores práticas.
 
 - The Medallion Architecture para EDW no Databricks
@@ -50,6 +53,7 @@ Aprenda como realizar o fine-tuning dos seus pipelines de dados para aumentar o 
 - Técnicas de Otimização de Pipeline de Dados no Databricks
 
 **Caso de Uso:** Resolva os problemas mais comuns durante o desenvolvimento das suas soluções com Apache Spark e Databricks. Aprenda a otimizar seus pipelines de dados e utilizar a plataforma de dados da Databricks para entregar uma solução de fim a fim.
+
 
 <p align="center">
   <a href="" rel="noopener">
