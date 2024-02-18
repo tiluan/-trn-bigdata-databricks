@@ -5,7 +5,7 @@ Domine o Databricks e remova totalmente a dificuldade de instalar, configurar e 
 a engine de processamento de dados mais utilizada no mercado de dados que está presente nas maiores empresas do globo 
 como Uber, Waze, Spotify, Netflix, New York Times, Nasa.
 
-## Roadmap e Programação
+## Roadmap
 Cronograna do Treinamento 
 Big Data com Databricks: Plataforma Unificada de Dados
 
