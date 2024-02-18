@@ -1,9 +1,5 @@
 # Big Data com Databricks: Plataforma Unificada de Dados
 
-- [Apache Spark](https://spark.apache.org/)
-- [Delta Lake](https://delta.io/)
-- [Databricks](https://www.databricks.com/)
-
 ### Descrição
 Domine o Databricks e remova totalmente a dificuldade de instalar, configurar e administrar clusters de Apache Spark, 
 a engine de processamento de dados mais utilizada no mercado de dados que está presente nas maiores empresas do globo 
