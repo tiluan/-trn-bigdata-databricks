@@ -11,6 +11,6 @@ Big Data com Databricks: Plataforma Unificada de Dados
 
 <p align="center">
   <a href="" rel="noopener">
-    <img src="https://github.com/owshq-plumbers/trn-cc-bg-databricks/blob/main/images/roadmap-databricks.excalidraw.png" alt="Project Logo">
+    <img src="https://github.com/tiluan/trn-bigdata-databricks/blob/main/images/roadmap-databricks.excalidraw.png" alt="Project Logo">
  </a>
 </p>
